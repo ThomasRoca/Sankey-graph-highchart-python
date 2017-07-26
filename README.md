@@ -1,1 +1,1 @@
-# Sankey-graph-highchart-python
+# Sankey diagram with Highcharts and Python
